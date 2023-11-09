@@ -24,7 +24,7 @@ void recursivePrint(int n, int b) {
         printIndent(b);
         printf("그의 답은 대부분 옳았다고 하네. 그런데 어느 날, 그 선인에게 한 선비가 찾아와서 물었어.\"\n");
 
-        recursivePrint(n - 1, b + 1);
+        recursivePrint(n - 1, b + 1); // 두 문장 사이에서 재귀호출 하면 사이에 문장이 계속 추가되어 출력
 
         printIndent(b);
         printf("라고 답변하였지.\n");
