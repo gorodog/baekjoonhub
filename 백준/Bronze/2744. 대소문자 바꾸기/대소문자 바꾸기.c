@@ -16,6 +16,10 @@ int main() {
         }
     }
 
+    // 아스키코드
+    // word[i] >= 'a' && word[i] <= 'z'
+    // word[i] = word[i] - 'a' + 'A';
+
     printf("%s", a);
 
     return 0;
