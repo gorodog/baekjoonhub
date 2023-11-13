@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// 재귀함수 사용해서 풀어보기
 
 int main() {
     int a[9] = { 0 };
