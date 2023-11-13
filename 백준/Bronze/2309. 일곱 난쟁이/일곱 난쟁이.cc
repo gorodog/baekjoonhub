@@ -4,6 +4,7 @@
 using namespace std;
 
 // 재귀함수 사용해서 풀어보기
+// https://kimjingo.tistory.com/76
 
 int main() {
     int a[9] = { 0 };
