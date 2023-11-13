@@ -1,7 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 
+// https://rebro.kr/53
+// https://comdolidol-i.tistory.com/151
+
 using namespace std;
+
 
 int main() {
     int a = 0;
